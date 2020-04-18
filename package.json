@@ -1,0 +1,22 @@
+{
+  "name": "webroot",
+  "version": "1.0.0",
+  "description": "gh-page for ISIT322",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike-Diaz/WebRoot.git"
+  },
+  "author": "Mike Diaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mike-Diaz/WebRoot/issues"
+  },
+  "homepage": "https://github.com/Mike-Diaz/WebRoot#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
